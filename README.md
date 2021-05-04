@@ -1,7 +1,7 @@
 # MusicPlayer
 This project is all about creating a simple music player with custom playlists
 1. This application collects all songs with extension .mp3
-2. Create a playlist instantly in a random order
+2. The application creates a playlist instantly in a random order
 3. Display several functionalities to the listener
 4. There are some shortcut keys to note:
     i. R Shift + up for increasing volume
